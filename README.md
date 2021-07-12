@@ -1,37 +1,29 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Rhishna
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Anubis
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/gg8pP4r/OIP.jpg" alt="OIP" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>JANGAN DIAMBIL NANTI AKU NANGIS LO</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/0ZFg5ZM/images-2.jpg" width="423" />
 </p>
 <br>
 
 
 
 <p align="center">
-<a href="#"><img title="RHISHNA" src="https://img.shields.io/badge/RHISHNA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
 </p>
 <p align="center">
-<a href="https://github.com/naisayuriza"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RHISHNA-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/anubisofgod"><img title="Author" src="https://img.shields.io/badge/AUTHOR-غير معروف-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 </p>
-<img alt="GIF" src="https://media.giphy.com/media/FbN2hnZhwTWGmN2cRl/giphy.gif" width="980" />
+<img alt=<img src="https://i.ibb.co/4Y68RSh/wallpapertip-wallpaper-antik-739202.jpg" width="980" />
 <div align="center">
 <details>
  
-<NAISA ALIFIA YURIZA BEB KU>
+<ANUBIS EGYPTIAN GOD>
 
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 THENAY.DELUXE
 
-### WARNING
-MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANNEL SAYA.... DILARANG UBAH INFO!!!
+ANUBIS EGYPTIAN GOD
 
-## NOTE:> 
-SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
-</div>
-
-Simple WhatsApp Bot
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/naisayuriza/naisabotz)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anubisofgod/ANUBIS)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
@@ -41,8 +33,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/naisayuriza/naisabotz
-cd naisabotz
+git clone https://github.com/anubisofgod/ANUBIS
+cd ANUBIS
 npm install
 npm update
  node index.js
@@ -58,8 +50,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/naisayuriza/naisabotz
-cd naisabotz
+git clone https://github.com/anubisofgod/ANUBIS
+cd ANUBIS
 npm install
 npm update
 ```
@@ -125,8 +117,8 @@ conn.logger.level = 'debug'
 
 ---------
 
-#### NAISA ALIFIA YURIZA <img src="https://media.giphy.com/media/LiF9FQHuQ7owp6qxj9/giphy.gif" width="30px">
+#### ANUBIS EGYPTIAN GOD 
  
-#### <img alt="GIF" src="https://media.giphy.com/media/XeS7Sf4xljkXFQdMFQ/giphy.gif" width="980" /> 
+#### <img alt=<img src="https://i.ibb.co/4Y68RSh/wallpapertip-wallpaper-antik-739202.jpg" width="980" />
  
  ---------
